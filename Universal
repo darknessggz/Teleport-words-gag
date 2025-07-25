@@ -1,5 +1,5 @@
 --work on all games
-print ("teleport words loaded")
+print ("teleport words notepad loaded")
 
 -- Configuration
 local allowLocalPlayer = false -- Set to true to allow local player to trigger prompt, false to disable
@@ -172,5 +172,5 @@ end)
 
 -- Initial setup for the local player
 setupChatListener()
--- Initial setup for the local player
-setupChatListener()
+
+print ("full loaded")
